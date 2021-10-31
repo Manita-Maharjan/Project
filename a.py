@@ -19,3 +19,6 @@ for item in range(1, num + 1):
     
 
 'hi i have made an update in your project'
+
+
+'hi it is fixed now'
