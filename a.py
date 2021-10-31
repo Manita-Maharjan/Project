@@ -17,3 +17,5 @@ for item in range(1, num + 1):
     else:
         print('It is not even number.' )
     
+
+'hi i have made an update in your project'
