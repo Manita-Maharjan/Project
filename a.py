@@ -16,6 +16,12 @@ for item in range(1, num + 1):
         print('It is even number.')
     else:
         print('It is not even number.' )
+<<<<<<< HEAD
     
 
 'hi i have made an update in your project'
+=======
+
+
+'Hi hI Ho I'
+>>>>>>> df6b574f8d3f839c8eb482d9590037e42b2f3e9e
